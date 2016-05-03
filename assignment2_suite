@@ -14,8 +14,6 @@
 <tr><td><a href="Checkout">Checkout</a></td></tr>
 <tr><td><a href="Finalize">FinalizeOrder</a></td></tr>
 <tr><td><a href="SignOut1">SignOut</a></td></tr>
-<tr><td><a href="LogIn">signin</a></td></tr>
-<tr><td><a href="SignOut1">SignOut1</a></td></tr>
 <tr><td><a href="AddCartNoUser">AddCartNoUser</a></td></tr>
 <tr><td><a href="FinalizeNoUser">BuyNoUser</a></td></tr>
 </tbody></table>
